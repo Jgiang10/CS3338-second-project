@@ -1,0 +1,64 @@
+commit 6a49a3c81b37a37e1449ef3ae8c11e0d1067937c
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:42:28 2025 -0700
+
+    Added new line about favorite game to index.html
+
+commit 1a52eb4d0ccee05fb8b343cd4423e41f88e3b325
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:39:54 2025 -0700
+
+    Added new favorite food line to index.html
+
+commit 4e82bf1009a89d4703fd442798824bd167ed1548
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:39:00 2025 -0700
+
+    resetting branch due to mess up
+
+commit 3db1e3ea5c4bdfe8ebb835a3900884eed1830bd4
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:36:45 2025 -0700
+
+    Added new line in index.html about favorite food
+
+commit a1da28d5195d42ff44c6c4cd94b8c5d4013d01d3
+Merge: 8bce5da f438df5
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:31:47 2025 -0700
+
+    Merge branch 'main' of https://github.com/Jgiang10/CS3338-second-project
+    resetting branch
+
+commit 8bce5dadfb7a477fa4799af07a0092da45a32a87
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:31:43 2025 -0700
+
+    adjustment
+
+commit f438df5c4fe4ea34628836b505494415b0cedce0
+Author: Jason Giang <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:23:22 2025 -0700
+
+    Create README.md
+
+commit d1428c0a44b1286d45da2930a80f90ae7f9dca97
+Merge: 1d2bfc0 c837dde
+Author: Jason Giang <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:20:27 2025 -0700
+
+    Merge pull request #1 from Jgiang10/info_fill
+    
+    Filled in the blanks in index.html
+
+commit c837dde8d57084a26a5ad7d8f52d2f1aecd5fce0
+Author: Jgiang10 <jgiang10@calstatela.edu>
+Date:   Thu Sep 4 21:14:09 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
